@@ -1,0 +1,31 @@
+
+
+
+===================================================== DATA EXTRACTION ==============================================================================================================
+
+File Name: Twitter_DataExtraction.ipynb
+Purpose: Extract live data from twitter 
+
+Compatible python version: It is compatible with python version above 3.8
+Platform to use: Use Jupyter Notebook as the supported python version is 3.9.12 for snscrape module.
+
+NOTE: Google Colab currently uses pythoon version 3.7
+
+====================================================== BERT ANALYSIS ================================================================================================================
+
+File Name: BERT_PaymentApp_Analysis.ipynb
+Purpose: To read the extracted data and run Deep Learning BERT model to train, test and generate accuracy.
+
+Platform to use: Google colab with Hardware accelerator set to TPU 
+
+
+============================================== MACHINE LEARNING MODELS ANALYSIS =====================================================================================================
+
+
+File Name: ML_PaymentApp_Analysis.ipynb
+Purpose: To read the extracted data and run Machine Learning models to train, test and generate accuracy.  
+	The code also focuses on performing Brand Analysis by plotting several graphs and charts for all sentiments.
+
+Platform to use: Google colab with Hardware accelerator set to None 
+
+======================================================================================================================================================================================
